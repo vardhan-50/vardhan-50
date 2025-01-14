@@ -1,0 +1,12 @@
+#1
+range1=list(range(5,101,5))
+print(range1)
+#2
+range2=list(range(40,3,-4))
+print(range2)
+#3(a)
+range3=list(range(99,10,-2))
+print(range3)
+#3(b)
+range4=tuple(range(50,1,-2))
+print(range4)
